@@ -1,0 +1,40 @@
+{
+  "manifest_version": "1.0",
+  "source_code": "swinmy",
+  "agency_code": "SWINMY",
+  "run_id": "2026-10-17T03-20-09Z",
+  "chunk_index": 1,
+  "total_records": 500,
+  "completed_at": "2026-10-17T03:20:09.777Z",
+  "harvester": {
+    "name": "swinmy-koha-harvester",
+    "version": "1.0.0"
+  },
+  "batches": [
+    {
+      "file": "batch_0.xml",
+      "records": 100,
+      "sha256": "e86a8d97f34be6269b2c1544a4f50383666645869d00815ae3336fa155829bdb"
+    },
+    {
+      "file": "batch_1.xml",
+      "records": 100,
+      "sha256": "0bcbd5a5d8796a4628a659d0a346528913bbeaec76f3893cc6ad7c18c247cc48"
+    },
+    {
+      "file": "batch_2.xml",
+      "records": 100,
+      "sha256": "4d540dd31e6c43bfc48888b615e588fc5830fcedc18030afd73363f2061518b7"
+    },
+    {
+      "file": "batch_3.xml",
+      "records": 100,
+      "sha256": "f36a001a6a1950e9bb0a4f26b105f3b82d0318de9a1ec78f02f0c10bc99e948d"
+    },
+    {
+      "file": "batch_4.xml",
+      "records": 100,
+      "sha256": "a34b13a189b79659f4ce3460457d9bd49cd20e25efbf7b53303b8121b72ac632"
+    }
+  ]
+}

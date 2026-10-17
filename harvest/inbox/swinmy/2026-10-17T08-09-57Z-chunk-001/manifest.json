@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0",
+  "source_code": "swinmy",
+  "source_name": "Swinburne University of Technology Sarawak Library",
+  "source_base_url": "https://www.swinburne.edu.my/library",
+  "terms_url": "https://www.swinburne.edu.my/",
+  "terms_verified_on": "2026-10-17",
+  "harvester_name": "swinmy-koha-harvester",
+  "harvester_version": "1.0.0",
+  "run_id": "2026-10-17T08-09-57Z-chunk-001",
+  "mode": "full",
+  "started_at": "2026-10-17T08:09:58.540Z",
+  "finished_at": "2026-10-17T08:09:58.541Z",
+  "record_count": 10000,
+  "error_count": 0,
+  "status": "complete",
+  "user_agent": "PustakaTerbuka-Harvester/1.0 (+https://github.com/pustaka-terbuka/swinmy; contact@pustakaterbuka.org)",
+  "notes": "SWINMY harvest finished. Total: 10000 records."
+}
